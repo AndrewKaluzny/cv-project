@@ -19,10 +19,15 @@ Probability and Random Processes, Synthesis and Verification of Digital Systems
 
 ## Experience
 Arup – Electrical Engineer Intern	Summer 2018
+
 •	Wrote Python script for Revit to automate creation and naming of electrical circuits
+
 •	Demonstrated scripts to electrical team and created a video tutorial for using them
+
 •	Used Revit to create diagrams of electrical fixtures and circuits for review by architect
+
 •	Reviewed contractor submittals against Arup specifications
+
 •	Conducted energy savings and solar feasibility analyses using Excel and AutoCAD
 
 ## Projects
