@@ -8,7 +8,9 @@ I am looking for a full time position that offers the chance to work on sophisti
 ## Education
 
 University of Massachusetts, Amherst:	May 2019
+
 Bachelor of Science in Electrical Engineering, GPA: 3.44
+
 Commonwealth Honors College
 
 ## Coursework
